@@ -8,7 +8,7 @@ Vous allez créer une carte de visite interactive. Celle-ci devra contenir vos i
 2. Découvrir le CSS
 3. Introduire un peu de javascript pour intéragir avec les éléments de la page
 
-![image](https://github.maif.io/guilde-dev/numerique-pour-toutes-2025/assets/1304/23d48574-29a8-4153-bc5c-0fe62c953b88)
+![image](assets/coding-web.png)
 
 
 
