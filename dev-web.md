@@ -29,7 +29,7 @@ Vous allez créer une carte de visite interactive. Celle-ci devra contenir vos i
 > Lien vers la documentation HTML : https://developer.mozilla.org/fr/docs/Web/HTML
 
 
-1. Commencez avec le squelette fourni ci-dessus.
+1. Commencez avec le squelette fourni [ici](https://codepen.io/ffremont/pen/MYgQqZb).
 2. **Ajoutez les éléments suivants dans le corps du document :**
    - Une balise `<button>` avec le texte " Changer la Couleur " [documentation](https://developer.mozilla.org/fr/docs/Web/HTML/Element/button).
 3. Remplacez le texte par vos propres informations :
